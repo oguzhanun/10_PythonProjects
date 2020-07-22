@@ -1,0 +1,12 @@
+
+
+
+ana router ---->   public ip  : 198.45.98.66
+
+ana router ----->  private ip : 10.5.0.0/16
+
+subnet1 -------->  subnet ip : 10.5.1.0/24
+
+
+        subnet2 -------->  subnet ip : 10.5.2.0/24
+            host1 ------>  host ip   : 10.5.2.34 
